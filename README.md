@@ -69,6 +69,19 @@ Focused on creating efficient web applications while continuously learning analy
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan40&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan40&theme=shadow_blue&hide_border=false" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan40&theme=shadow_blue&hide_border=false&layout=compact" width="40%" />
+</p>
+
+---
+
 
 ## 📌 Featured Projects
 - 🔹 **AI Resume Builder** – Smart resume generator with analysis & ATS optimization  
