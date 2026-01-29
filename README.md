@@ -110,4 +110,7 @@ Focused on creating efficient web applications while continuously learning analy
 
 ---
 
-⭐️ From [MOHAMMED SUFIYAN]
+<p align="center">
+⭐️ From <a href="https://github.com/Sufiyan40">Mohammed Sufiyan</a>
+</p>
+
