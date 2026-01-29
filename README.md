@@ -75,18 +75,6 @@ Focused on creating efficient web applications while continuously learning analy
 - 🔹 **Missing Person Tracking System** – Image processing & ML based system  
 
 ---
-
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
 ---
 
 ## 🏆 Achievements & Certifications
@@ -97,10 +85,21 @@ Focused on creating efficient web applications while continuously learning analy
 
 ---
 
-## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your_email@gmail.com  
-- 🌐 Portfolio: Coming Soon  
+## 🤝 Connect with Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/mohammed-sufiyan01/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:mohammedsufiyan464@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/YOUR_USERNAME">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+
 
 ---
 
