@@ -96,7 +96,7 @@ Focused on creating efficient web applications while continuously learning analy
 <a href="mailto:mohammedsufiyan464@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/Sufiyan40">
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
@@ -106,8 +106,8 @@ Focused on creating efficient web applications while continuously learning analy
 ---
 
 ## ✨ Quote I Live By
-> "Code. Analyze. Secure. Repeat." 🔁💻🔐📊
+> "Build smart. Analyze deeply. Secure everything."
 
 ---
 
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+⭐️ From [MOHAMMED SUFIYAN]
