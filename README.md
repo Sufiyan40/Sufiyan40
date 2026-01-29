@@ -107,7 +107,9 @@ Focused on creating efficient web applications while continuously learning analy
 ---
 
 ## ✨ Quote I Live By
-> "Build smart. Analyze deeply. Secure everything."
+
+<p align="center"><b>"Build smart. Analyze deeply. Secure everything."</b></p>
+
 
 ---
 
