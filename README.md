@@ -1,4 +1,12 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=headern&fontSize=30&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&animation=scaleIn" />
+
+
+
+
+
+
+
+
 
 
 <h1 align="center">Hi 👋, I'm Mohammed Sufiyan</h1>
