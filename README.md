@@ -77,7 +77,6 @@ Focused on creating efficient web applications while continuously learning analy
 - 🔹 **Missing Person Tracking System** – Image processing & ML based system  
 
 ---
----
 
 ## 🏆 Achievements & Certifications
 - ✅ Skyscanner Forage Certification  
