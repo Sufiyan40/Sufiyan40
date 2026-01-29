@@ -1,3 +1,6 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=headern&fontSize=30&fontColor=ffffff" />
+
+
 <h1 align="center">Hi 👋, I'm Mohammed Sufiyan</h1>
 <h3 align="center">Full Stack Developer | Data Enthusiast | Security Learner</h3>
 
@@ -69,19 +72,6 @@ Focused on creating efficient web applications while continuously learning analy
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan40&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan40&theme=tokyonight" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan40&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
-
----
 
 
 ## 📌 Featured Projects
@@ -113,8 +103,6 @@ Focused on creating efficient web applications while continuously learning analy
   <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
-
-
 
 ---
 
