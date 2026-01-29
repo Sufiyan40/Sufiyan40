@@ -72,13 +72,14 @@ Focused on creating efficient web applications while continuously learning analy
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan40&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan40&theme=shadow_blue&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sufiyan40&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sufiyan40&theme=tokyonight" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan40&theme=shadow_blue&hide_border=false&layout=compact" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sufiyan40&layout=compact&theme=tokyonight" width="40%" />
 </p>
+
 
 ---
 
