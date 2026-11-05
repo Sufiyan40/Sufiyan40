@@ -3,24 +3,24 @@
 </p>
 
 
-
 <h1 align="center">Hi 👋, I'm Mohammed Sufiyan</h1>
-<h3 align="center">Full Stack Developer | Data Enthusiast | Security Learner</h3>
+
+<h3 align="center">Full Stack Developer | Aspiring DevOps Engineer | Cloud Enthusiast | CSE Graduate</h3>
 
 <p align="center">
-🚀 Passionate about building scalable web apps, working with data, and creating secure systems<br>
-🌱 Currently learning advanced JavaScript, Data Analytics & Cybersecurity<br>
-💡 Love solving real-world problems with technology  
+🚀 Passionate about building, automating, and managing scalable infrastructure and applications.<br>
+🌱 Currently learning DevOps, Linux, Shell Scripting, AWS, Docker, Kubernetes & CI/CD.<br>
+💻 Exploring cloud technologies, infrastructure automation, and containerization.<br>
+🔧 Hands-on with Git, GitHub, Linux, and Shell Scripting.<br>
+💡 Interested in solving real-world problems through automation and modern DevOps practices.
 </p>
-
 
 ---
 
 ## 🧑‍💻 About Me
 
-Full Stack Developer with a passion for **data-driven solutions** and **secure system design**.  
-Focused on creating efficient web applications while continuously learning analytics and cybersecurity to build smarter and safer technology.
-
+**Aspiring DevOps Engineer with a passion for cloud technologies, automation, and scalable infrastructure.**  
+**Focused on mastering Linux, AWS, Docker, Kubernetes, and CI/CD while continuously exploring modern DevOps practices to build, deploy, and manage reliable applications.**
 
 ---
 
